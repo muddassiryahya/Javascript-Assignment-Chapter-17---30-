@@ -32,7 +32,7 @@
 
 // Question no. 5
 
-var str = "Pakistani"
+// var str = "Pakistani"
 // document.write("<b> String: Pakistani </br>")
 // document.write("<b> Character at index 3 : " + str[3])
 // document.write("<b> Character at index 3 : " + str.charAt(3))

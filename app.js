@@ -32,7 +32,7 @@
 
 // Question no. 5
 
-// var str = "Pakistani"
+var str = "Pakistani"
 // document.write("<b> String: Pakistani </br>")
 // document.write("<b> Character at index 3 : " + str[3])
 // document.write("<b> Character at index 3 : " + str.charAt(3))
@@ -76,14 +76,43 @@
 // document.write("Upper case: " + userInput.toUpperCase())
 
 
-// Question no. 11
-
 // var userInput = prompt("Enter any word in upper case")
 // document.write("<b>User Input: " + userInput + "</br>")
 // document.write("Little case: " + userInput.toLowerCase())
 
 
+// Question no. 11
+
+// var userInput = prompt("Enter any word")
+// var firstLetter = userInput.slice(0 , 1)
+// var convert = firstLetter.toUpperCase()
+// var otherLetters =  userInput.slice(1)
+// var arr = [convert , otherLetters]
+
+// console.log(arr.join(""))
+
+// document.write("<b>User Input: " + userInput + "</br>")
+// document.write("Title case: " + arr.join(""))
+
+
 // Question no. 12
+
+// var num = 35.35
+// var str = num.toString()
+// var replace = str.replace("." , "")
+// console.log(replace)
+
+// document.write("<b> Number: " + str + "</br>" )
+// document.write("Result: " + replace)
+
+
+// Question no. 13
+
+
+
+
+
+
 
 
 

@@ -131,32 +131,39 @@
 
 // Question no. 16
 
-var university = "University of Karachi"
-var universityArr = university.split('')
+// var university = "University of Karachi"
+// var universityArr = university.split('')
 
-console.log(universityArr)
+// console.log(universityArr)
 
-document.write("</b>" + universityArr[0] + "</br>")
-document.write(universityArr[1] + "</br>")
-document.write(universityArr[2] + "</br>")
-document.write(universityArr[3] + "</br>")
-document.write(universityArr[4] + "</br>")
-document.write(universityArr[5] + "</br>")
-document.write(universityArr[6] + "</br>")
-document.write(universityArr[7] + "</br>")
-document.write(universityArr[8] + "</br>")
-document.write(universityArr[9] + "</br>")
-document.write(universityArr[10] + "</br>")
-document.write(universityArr[11] + "</br>")
-document.write(universityArr[12] + "</br>")
-document.write(universityArr[13] + "</br>")
-document.write(universityArr[14] + "</br>")
-document.write(universityArr[15] + "</br>")
-document.write(universityArr[16] + "</br>")
-document.write(universityArr[17] + "</br>")
-document.write(universityArr[18] + "</br>")
-document.write(universityArr[19] + "</br>")
-document.write(universityArr[20] + "</br>")
+// for (var i = 0; i < universityArr.length; i++){
+//     console.log(universityArr[i])
+// }
+
+// document.write("</b>" + universityArr[0] + "</br>")
+// document.write(universityArr[1] + "</br>")
+// document.write(universityArr[2] + "</br>")
+// document.write(universityArr[3] + "</br>")
+// document.write(universityArr[4] + "</br>")
+// document.write(universityArr[5] + "</br>")
+// document.write(universityArr[6] + "</br>")
+// document.write(universityArr[7] + "</br>")
+// document.write(universityArr[8] + "</br>")
+// document.write(universityArr[9] + "</br>")
+// document.write(universityArr[10] + "</br>")
+// document.write(universityArr[11] + "</br>")
+// document.write(universityArr[12] + "</br>")
+// document.write(universityArr[13] + "</br>")
+// document.write(universityArr[14] + "</br>")
+// document.write(universityArr[15] + "</br>")
+// document.write(universityArr[16] + "</br>")
+// document.write(universityArr[17] + "</br>")
+// document.write(universityArr[18] + "</br>")
+// document.write(universityArr[19] + "</br>")
+// document.write(universityArr[20] + "</br>")
+
+
+// Question no. 17
 
 
 

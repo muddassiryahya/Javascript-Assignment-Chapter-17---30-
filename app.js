@@ -165,6 +165,37 @@
 
 // Question no. 17
 
+// var userInput = prompt("Enter any word: " , "Pakistan")
+// // var str = userInput.slice(-1)
+// var str = userInput.charAt(userInput.length - 1)
+
+// console.log(str)
+
+// document.write("<b>User Input: " + userInput + "</br>")
+// document.write("Last character of input: " + str)
+
+
+// Question no. 18
+
+// var str = "The quick brown fox jumps over the lazy dog."
+// var word = "the"
+// var count = 0
+
+// var strLowerCase = str.toLowerCase()
+// var wordLowerCase = word.toLocaleLowerCase()
+
+// var array = strLowerCase.split(' ')
+
+// for ( var i = 0; i < array.length; i++){
+//     if (array[i] === wordLowerCase){
+//         count++
+//     }
+// }
+
+// console.log(count)
+// document.write("<b>Text: " + str + "</br>")
+// document.write("There are " + count + " occurrences of word 'the'")
+
 
 
 
@@ -276,14 +307,4 @@
 //         button: "Aww yiss!",
 //       });
 // }
-
-
-
-
-
-
-
-
-
-
 

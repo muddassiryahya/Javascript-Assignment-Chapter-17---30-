@@ -106,15 +106,35 @@
 // document.write("Result: " + replace)
 
 
-// Question no. 13
+// Question no. 14
+
+// var arr =  ["cake", "apple pie", "cookie", "chips", "patties"]
+
+// var userInput = prompt("Enter the item you want to search:").toLowerCase()
+
+// var found = false
+
+// for (var i = 0; i < arr.length; i++) {
+//     if (arr[i] === userInput){
+//         found = true;
+//         break;
+//     }
+// }
 
 
+// if (found){
+//         alert("The item  '" + userInput + "'  is found in the list.");
+// } else {
+//         alert("The item '" + userInput + "' is not found in the list.");
+//     }
 
 
+// Question no. 16
 
+// var university = "University of Karachi"
+// var universityArr =university.split(" ")
 
-
-
+// console.log(universityArr)
 
 
 
